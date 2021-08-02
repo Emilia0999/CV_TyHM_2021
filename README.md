@@ -7,5 +7,5 @@
     
     Mi cv puede descargarse del siguiente link
     <p>
-      [CV ACTUALIZADO] (https://drive.google.com/file/d/1wQMV3Q8bot3LTcJIfMjGdbrZS9t1xCeP/view)
+      [CV ACTUALIZADO]  (https://emilia0999.github.io/CV_TyHM_2021/CV Emilia Millet.zip)
       
